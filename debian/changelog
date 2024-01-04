@@ -1,0 +1,6 @@
+btop (1.2.13) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Otto Kekäläinen <otto@debian.org>  Thu, 04 Jan 2024 14:26:24 +0000
