@@ -18,7 +18,7 @@ endif
 OLDCXX := $(CXXFLAGS)
 OLDLD := $(LDFLAGS)
 
-PREFIX ?= /usr/local
+PREFIX ?= /usr
 
 #? Detect PLATFORM and ARCH from uname/gcc if not set
 PLATFORM ?= $(shell uname -s || echo unknown)
